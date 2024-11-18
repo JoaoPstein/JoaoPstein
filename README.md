@@ -3,9 +3,9 @@
   
 ##
 
-- 🔭 Trabalho na https://ambevtech.com.br.
+- 🔭 Trabalho na https://www.pagueveloz.com.br/
 - 👨‍💻 Desenvolvo back-end em C#, mas também atuo em front-end com ReacJs.
-- 🌱 Atualmente aprefeiçoando meus conhecimentos na https://www.udemy.com.
+- 🌱 Atualmente aprefeiçoando meus conhecimentos no https://www.youtube.com/
 
 
  <div>
